@@ -6,17 +6,21 @@ const app = express();
 const port = process.env.PORT || 8000;
 
 app.get('/list', (req, res) => {
-  // const url ='https://www.wikiwand.com/en/List_of_aircraft_of_World_War_II'
   const url = 'https://en.wikipedia.org/wiki/List_of_aircraft_of_World_War_II?oldformat=true';
   const catArr = [];
+  const links = [];
 
-  request(url, (err, res, body) => {
+  request(url, (err, res, html) => {
     if (err) {
       console.err(err);
     } else if (!err && res.statusCode === 200) {
-      const $ = cheerio.load(body);
-      let category, name, year_in_service, country_of_origin, operators, link;
-
+      const $ = cheerio.load(html);
+      let category,
+          name,
+          yearInService,
+          countryOfOrigin,
+          operators,
+          link;
       const json = { category: '', name: '', yearInService: '', countryOfOrigin: '', operators: '', link: '' };
 
       $('.mw-headline').filter(function() {
@@ -24,23 +28,35 @@ app.get('/list', (req, res) => {
 
         category = data.text();
 
-        catArr.push(category);
-
-        json.category = catArr;
+        console.log(category);
+        
+        json.category = category;
       });
 
-      $('.wikitable').filter(function() {
+      $('.wikitable tr').filter(function() {
         const data = $(this);
 
-        let temp = data.text();
-        temp.split(' ')
-        console.log(temp);
-        json.name = rating;
+        let temp = data.children().text();
+            name = data.children().first().text()
+            yearInService = data.children().first().next().text();
+            operators = data.children().first().next().next().text();
+
+        // console.log('=====', name, yearInService, operators, '=====');
+
+        json.name = name;
         json.yearInService = yearInService;
         json.countryOfOrigin = countryOfOrigin;
         json.operators = operators;
-        jsonlink = link;
+        json.link = link;
       });
+
+      $('.wikitable a').each(function() {
+        const data = $(this);
+
+        link = data.attr('href');
+
+        json.link = link;
+      })
 
       fs.writeFile('output.json', JSON.stringify(json, null, 4), (err) => {
         if (err) {

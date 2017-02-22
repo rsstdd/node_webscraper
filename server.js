@@ -2,50 +2,57 @@ const express = require('express');
 const fs = require('fs');
 const request = require('request');
 const cheerio = require('cheerio');
-const output = require('./output.json');
+// const output = require('./output.json');
 const { urls1 } = require('./apages');
 const app = express();
 const port = process.env.PORT || 8000;
 
-const urlstr = 'https://en.wikipedia.org/wiki/'
+const rootStr = 'https://en.wikipedia.org/wiki/'
 
 // console.log(urls1);
 
 app.get('/list', (req, res) => {
-  for (let i = 0; i < urls1.length; i++) {
-    request(`${urlstr}${urls1[i]}`, (err, res, html) => {
+
+  for (let i = 0; i < 1; i++) {
+    request(`${rootStr}${urls1[i]}`, (err, res, html) => {
       if (err) {
         console.log(err);
-      }
-      else if (!err && res.statusCode === 200) {
+      } else if (!err && res.statusCode === 200) {
         const $ = cheerio.load(html);
-        const aircraft = [];
-        const json = { aircraft: [] };
+        const json = { name: '', type: '', numberBuilt: '', description: '', yearInService: '', countryOfOrigin: '', operators: '', maxSpeed: '', maxRange: '', ceiling: '', engines: '', imgUrls: [] };
 
         $('.infobox tr td').each(function() {
-          const data = $(this);
+          let data = $(this);
 
-          console.log(data.text());
+          let temp = data.text();
+          temp = temp.split('/n');
 
-          json.aircraft.push(data.text());
+          json.name = temp[1];
+          json.type = temp[2];
+          json.countryOfOrigin = temp[8];
+          json.name = temp[1];
+          json.numberBuilt = temp[9]
+          // console.log(json.name);
+          console.log(json.name);
+
+          json.name = data.text();
+
         });
 
-        $(' .image').each(function() {
+        $('.image').each(function() {
           const data = $(this);
-          const imgUrl = data.attr('href');
+          const img = data.attr('href');
 
-          aircraft.push(imgUrl);
+          if (img !== '/wiki/File:Commons-logo.svg' && img !== '') {
+            json.imgUrls.push(img);
+          }
         });
 
-        const description = $('.body-content').find('p').text();
+        json.description = $('.body-content').find('p').text();
 
-        // console.log(description);
+        console.log(json);
 
-        aircraft.push(description);
-
-        // console.log(aircraft);
-
-        // fs.writeFile('output.json', JSON.stringify(json, null, 4), (err) => {
+        // fs.appendFile('output.json', JSON.stringify(json, null, 4), (err) => {
         //   if (err) {
         //     console.log(err);
         //   } else {

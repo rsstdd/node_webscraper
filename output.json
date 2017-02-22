@@ -1,3 +1,594 @@
 {
-  
+    "name": "Blériot-SPAD S.91",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": []
+}{
+    "name": "Armstrong Whitworth A.W.16",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:AWScimitar.jpg"
+    ]
+}{
+    "name": "PWS-A",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Avia_BH-33.jpg",
+        "/wiki/File:Avia_BH-33_1.jpg"
+    ]
+}{
+    "name": "Curtiss F11C Goshawk",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Curtiss_BF2C-1_Goshawk_-_GPN-2000-001239.jpg",
+        "/wiki/File:Curtiss_BF2C-1_Goshawk_VB-5_NAN1-86.jpg",
+        "/wiki/File:RTAF_Curtiss_BF2C_Goshawk.jpg"
+    ]
+}{
+    "name": "443 (including prototypes and licence built)",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Bristol_Bulldog.1.jpg",
+        "/wiki/File:Bristol_Bulldog_REJS.jpg",
+        "/wiki/File:Bristol_Bulldog.jpg"
+    ]
+}{
+    "name": "Gloster Gladiator",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:OH-XGT_at_EFSE_20080802_05.jpg",
+        "/wiki/File:Gloster_SS.19A.jpg",
+        "/wiki/File:Gloster_F.926.jpg",
+        "/wiki/File:Gloster_Gauntlet_Kauhava_Finnland_20060623_2306.jpg",
+        "/wiki/File:Gloster_Gauntlet_3-view.svg"
+    ]
+}{
+    "name": "Fiat CR.42",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Az_Olasz_L%C3%A9gier%C5%91_FIAT_CR-32_t%C3%ADpus%C3%BA_vad%C3%A1szrep%C3%BCl%C5%91g%C3%A9pe._Fortepan_26473.jpg",
+        "/wiki/File:Fiat_C.R.32-Baleari.jpg",
+        "/wiki/File:CR.32.jpeg",
+        "/wiki/File:Fiat_C.R.32.JPG",
+        "/wiki/File:FIAT_CR-32.svg"
+    ]
+}{
+    "name": "568 [1]",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Avia_B-534_IV._verze.jpg",
+        "/wiki/File:Avia_B-534_-_prv%C3%BD_prototyp.jpg",
+        "/wiki/File:Avia_B-534_I._verze.jpg",
+        "/wiki/File:B-534_III._verze.jpg",
+        "/wiki/File:Bk-534.jpg",
+        "/wiki/File:Avia_B534.jpg",
+        "/wiki/File:Avia_Bk-534_Slovensk%C3%BDch_vzdu%C5%A1n%C3%BDch_zbran%C3%AD.jpg",
+        "/wiki/File:B-534_Kombinovana_letka.jpg",
+        "/wiki/File:Leteck%C3%A9_muzeum_Kbely_(169).jpg",
+        "/wiki/File:Avia_B-534_3-view.svg"
+    ]
+}{
+    "name": "Curtiss BF2C Goshawk",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Curtiss_F11c2_a.jpg",
+        "/wiki/File:F11C_Goshawk.jpeg",
+        "/wiki/File:Hawk_II_F11C.jpg",
+        "/wiki/File:Curtis_export_hawk_II_cracow_aviation_museum.jpg"
+    ]
+}{
+    "name": "586[2]\n\n366 P-12\n187 F4B\n33 demonstrators and exports\n\n",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Boeing_P-12E_USAF.jpg",
+        "/wiki/File:Boeing_P-12_side.jpg",
+        "/wiki/File:Boeing_P-12.jpg",
+        "/wiki/File:Boeing_F4B_VF5.jpg",
+        "/wiki/File:Royal_Thai_Air_Force_Boeing_100E_at_Museum.jpg"
+    ]
+}{
+    "name": "Nakajima A1N",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Gloster_gamecock.jpg",
+        "/wiki/File:Gloster_Gamecock.jpg",
+        "/wiki/File:Gloster_GamecockA.jpg",
+        "/wiki/File:Finnish_Aviation_Museum_Gloster_Gamecock_fuselage_wreck_20090419.jpg"
+    ]
+}{
+    "name": "91",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Firefly_y17.jpg"
+    ]
+}{
+    "name": "700[1]",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:He_51W.jpg",
+        "/wiki/File:He_51_LC_Galland_Kopie_klein72.jpg",
+        "/wiki/File:%D0%98%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_Heinkel_He-51B.jpg"
+    ]
+}{
+    "name": "Grumman XSBF",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Grumman_Fifi.jpg",
+        "/wiki/File:Grumman_Goblin.jpg",
+        "/wiki/File:Grumman_FF-1_N2803J.jpg"
+    ]
+}{
+    "name": "Hawker Hind\nHawker Hector",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Camm_hart_500.jpg",
+        "/wiki/File:Hawker_Hart,_B_4.jpg",
+        "/wiki/File:HAudax.jpg",
+        "/wiki/File:Hawker_Audax_K3077_26_Sq_BTN_08.09.34_edited-2.jpg",
+        "/wiki/File:Hawker_Demon_ExCC.jpg",
+        "/wiki/File:Hawker_Demon_I_K8200_64_Sqn_RWY_25.06.38_edited-2.jpg",
+        "/wiki/File:Hawker_Hardy_LOC_matpc.18774.jpg",
+        "/wiki/File:HawkerHindShuttleworth2004.jpg",
+        "/wiki/File:Hawker_Hind_K5414_(Shuttleworth_Uncovered).jpg",
+        "/wiki/File:HMS_Enterprise_1936_LOC_matpc_20251.jpg",
+        "/wiki/File:Hawker_Osprey.jpeg",
+        "/wiki/File:World_operators_of_the_Hart.png",
+        "/wiki/File:Hawker_Hart_G-ABMR_CVT_19.06.54_edited-3.jpg",
+        "/wiki/File:Hawker_Hart_II_RAF_Museum.jpg",
+        "/wiki/File:Hawker_Demon_K8203_(Suttleworth_uncovered).jpg"
+    ]
+}{
+    "name": "PWS-A",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Avia_BH-33.jpg",
+        "/wiki/File:Avia_BH-33_1.jpg"
+    ]
+}{
+    "name": "Ambrosini SAI.403",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Ambrosini_SAI.207.jpg",
+        "/wiki/File:SAI_Ambrosini.jpg"
+    ]
+}{
+    "name": "6",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": []
+}{
+    "name": "222",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Kochyerigin_DI-6i.jpg"
+    ]
+}{
+    "name": "Blériot-SPAD S.91",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": []
+}{
+    "name": "91",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Firefly_y17.jpg"
+    ]
+}{
+    "name": "Armstrong Whitworth A.W.16",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:AWScimitar.jpg"
+    ]
+}{
+    "name": "PWS-A",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Avia_BH-33.jpg",
+        "/wiki/File:Avia_BH-33_1.jpg"
+    ]
+}{
+    "name": "Grumman XSBF",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Grumman_Fifi.jpg",
+        "/wiki/File:Grumman_Goblin.jpg",
+        "/wiki/File:Grumman_FF-1_N2803J.jpg"
+    ]
+}{
+    "name": "92",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Hawker_Nimrod_El_Amriya_1936.jpg",
+        "/wiki/File:Hawker_Nimrod_II_in_flight.jpg",
+        "/wiki/File:Nimrod_II.jpg"
+    ]
+}{
+    "name": "Polikarpov I-15",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Poliakarpov_I-153_Musee_du_Bourget_P1010993.JPG",
+        "/wiki/File:Polikarpov_I-153_SA-kuva_20616.jpg",
+        "/wiki/File:I-153.jpg",
+        "/wiki/File:I-153_RA-1562G_(6066213064).jpg"
+    ]
+}{
+    "name": "588",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Ki-10_Kumagaya.jpg",
+        "/wiki/File:KI-10_type_II_Kai_page_89.jpg",
+        "/wiki/File:Kawasaki_Ki-10.jpg"
+    ]
+}{
+    "name": "803",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:I-5.jpg",
+        "/wiki/File:%D0%92%D0%A2-11_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0.jpg",
+        "/wiki/File:Polikarpov_I-5_3-view.svg"
+    ]
+}{
+    "name": "35",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Ro44_Regia_Aeronautica.jpg"
+    ]
+}{
+    "name": "Polikarpov I-153",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Polikarpov_I-15bis.jpg",
+        "/wiki/File:I-15bis.jpg",
+        "/wiki/File:I-15_Polikarpov_Tinker.jpg",
+        "/wiki/File:Polikarpov_I-15.svg"
+    ]
+}{
+    "name": "<50",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": []
+}{
+    "name": "6",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": []
+}{
+    "name": "Nakajima A1N",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Gloster_gamecock.jpg",
+        "/wiki/File:Gloster_Gamecock.jpg",
+        "/wiki/File:Gloster_GamecockA.jpg",
+        "/wiki/File:Finnish_Aviation_Museum_Gloster_Gamecock_fuselage_wreck_20090419.jpg"
+    ]
+}{
+    "name": "Ambrosini SAI.403",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Ambrosini_SAI.207.jpg",
+        "/wiki/File:SAI_Ambrosini.jpg"
+    ]
+}{
+    "name": "443 (including prototypes and licence built)",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Bristol_Bulldog.1.jpg",
+        "/wiki/File:Bristol_Bulldog_REJS.jpg",
+        "/wiki/File:Bristol_Bulldog.jpg"
+    ]
+}{
+    "name": "35",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Ro44_Regia_Aeronautica.jpg"
+    ]
+}{
+    "name": "PWS-A",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Avia_BH-33.jpg",
+        "/wiki/File:Avia_BH-33_1.jpg"
+    ]
+}{
+    "name": "Blériot-SPAD S.91",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": []
+}{
+    "name": "91",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:Firefly_y17.jpg"
+    ]
+}{
+    "name": "6",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": []
+}{
+    "name": "77",
+    "description": "",
+    "yearInService": "",
+    "countryOfOrigin": "",
+    "operators": "",
+    "maxSpeed": "",
+    "maxRange": "",
+    "ceiling": "",
+    "engines": "",
+    "imgUrls": [
+        "/wiki/File:%D0%90nsaldo_%D0%90.120.jpg"
+    ]
 }
